@@ -1,0 +1,9 @@
+.calculator {
+  box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
+  width: 360px;
+  height: 540px;
+  padding: 3.2rem;
+  border-radius: 1rem;
+  background: rgba(219, 241, 219, 0.4);
+  backdrop-filter: blur(8px);
+}

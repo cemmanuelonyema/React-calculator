@@ -1,0 +1,26 @@
+.button {
+  border-radius: 1rem;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+.button:hover {
+  background-color: var(--white);
+}
+
+.button:active {
+  background-color: var(--accent);
+  color: var(--white);
+}
+
+.equals {
+  grid-column: 3 / 5;
+}
+
+.equals:hover {
+  background-color: var(--color-primary-dark);
+  color: var(--white);
+}

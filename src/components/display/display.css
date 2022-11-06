@@ -1,0 +1,13 @@
+.display {
+  background-color: var(--white);
+  border: 1px solid rgba(255, 255, 255, 0.01);
+  border-radius: 1rem;
+  box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
+  color: var(--dark-color);
+  font-size: 35px;
+  overflow: auto;
+  padding: 20px;
+  text-align: right;
+  width: 100%;
+  margin-bottom: 2.4rem;
+}
